@@ -1,0 +1,17 @@
+{
+  "name": "vueproject",
+  "version": "1.0.0",
+  "description": "Vue learning project",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "vue": "^2.5.2"
+  },
+  "devDependencies": {
+    "webpack": "^3.7.1"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}
