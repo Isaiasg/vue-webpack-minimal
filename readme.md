@@ -3,7 +3,7 @@ Hey! I'm trying to catch up with new front-end dev by learning Vue.
 
 I wanted to follow along the "Getting started" guide from Vue but also use tools to compile and deploy (with netlify in mind) and yes,... I am aware of the vue-cli.
 
-This are more or less the steps I followed.
+These are more or less the steps I followed.
 
 Create dir for project
 yarn init  
