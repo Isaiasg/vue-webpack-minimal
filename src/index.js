@@ -1,3 +1,4 @@
+import index from './index.html';
 import Vue from 'vue';
 
 var app = new Vue({
@@ -6,5 +7,3 @@ var app = new Vue({
     message: 'Hello Vue!'
   }
 });
-
-console.log('hello');
