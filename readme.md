@@ -14,3 +14,7 @@ added css-loader vue-loader vue-template-compiler
 added file-loader to copy index.html  
 added yarn.lock to solution for netlify integration  
 configured netlify deploy settings with build command: yarn build and publish directory: dist  
+
+<!-- Markdown snippet -->
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Isaiasg/vue-webpack-minimal)  
+
