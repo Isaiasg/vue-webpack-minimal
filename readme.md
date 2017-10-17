@@ -12,3 +12,5 @@ installed Vetur VS Code extension
 converted content to .vue file  
 added css-loader vue-loader vue-template-compiler  
 added file-loader to copy index.html  
+added yarn.lock to solution for netlify integration  
+configured netlify deply settings with build command: yarn build and publish directory: dist  
