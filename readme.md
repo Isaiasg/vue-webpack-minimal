@@ -15,7 +15,7 @@ added
 
 configured package.json to run webpack  
 yarn add webpack-dev-server --dev  
-installed Vue.js devtools for chrome (optional). 
+installed Vue.js devtools for chrome (optional).  
 added file-loader to copy index.html  
 added yarn.lock to solution for netlify integration  
 configured netlify deploy settings via netlify.toml with 
